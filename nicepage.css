@@ -2043,6 +2043,11 @@ a {
   margin-top: 0.5em;
   margin-bottom: 0;
 }
+*{
+
+  overflow-x: hidden;
+      overflow-y: clip;
+}
 *,
 *:before,
 *:after {
